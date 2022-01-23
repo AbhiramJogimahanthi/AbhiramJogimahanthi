@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhiram</h1>
 <h3 align="center">Learning something Interesting...!</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1294594/screenshots/5460287/media/8b4786572205a8ac7305403f5e495c81.gif">
+<img align="right" width="400" src="https://cdn.dribbble.com/users/4422816/screenshots/8803765/media/fffb308d1d7a24a8687346c57ae1ff36.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiramjogimahanthi&label=Profile%20views&color=0e75b6&style=flat" alt="abhiramjogimahanthi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/j_abhiram18" target="blank"><img src="https://img.shields.io/twitter/follow/j_abhiram18?logo=twitter&style=for-the-badge" alt="j_abhiram18" /></a> </p>
+
+- 💻 I’m currently a CSE Undergrad student at Amrita Vishwapeetham, Chennai Campus
 
 - 🌱 I’m currently learning **Cloud Architecture**
 
