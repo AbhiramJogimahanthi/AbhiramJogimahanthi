@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhiram</h1>
 <h3 align="center">Learning something Interesting...!</h3>
 
-</br><img align="right" width="400" src="https://cdn.dribbble.com/users/1518535/screenshots/7528356/media/e11e5b8aaa2187e4e1a7c3da0553208e.gif">
+</br><img align="right" width="400" src="https://www.windaydigital.com/wp-content/uploads/2020/12/39998-web-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiramjogimahanthi&label=Profile%20views&color=0e75b6&style=flat" alt="abhiramjogimahanthi" /> </p>
 
@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abhiramjogimahanthi&show_icons=true&locale=en" alt="abhiramjogimahanthi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiramjogimahanthi&" alt="abhiramjogimahanthi" /></p>
+
