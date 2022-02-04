@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiramjogimahanthi&label=Profile%20views&color=0e75b6&style=flat" alt="abhiramjogimahanthi" /> </p>
 
-- 💻 I’m currently a CSE Undergrad student at Amrita Vishwapeetham, Chennai Campus
+- 💻 I’m currently a CSE Undergrad student at Amrita Vishwa Vidyapeetham
 
 - 🌱 I’m currently learning **Cloud Architecture**
 
