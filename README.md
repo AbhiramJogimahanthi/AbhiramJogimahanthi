@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhiram</h1>
 <h3 align="center">Learning something Interesting...!</h3>
 
-</br><img align="right" width="400" src="https://cdn.dribbble.com/users/1518535/screenshots/7528356/media/e11e5b8aaa2187e4e1a7c3da0553208e.gif">
+</br><img align="right" width="400" src="https://64.media.tumblr.com/0e9fe37114b6e7310778b515d7bf84b2/tumblr_p1syjo21eu1ts4htvo2_540.gifv">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiramjogimahanthi&label=Profile%20views&color=0e75b6&style=flat" alt="abhiramjogimahanthi" /> </p>
 
