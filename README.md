@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhiram</h1>
 <h3 align="center">Learning something Interesting...!</h3>
 
-</br><img align="right" width="400" src="https://zippy.gfycat.com/CheerySeparateGoldeneye.mp4">
+</br><img align="right" width="400" src="https://i.pinimg.com/originals/01/d7/17/01d7176e77aebf3b461562899efcf47f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiramjogimahanthi&label=Profile%20views&color=0e75b6&style=flat" alt="abhiramjogimahanthi" /> </p>
 
