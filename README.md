@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhiram</h1>
 <h3 align="center">Learning something Interesting...!</h3>
 
-</br><br><img align="right" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
+</br><br><img align="right" width="400" src="https://64.media.tumblr.com/0e9fe37114b6e7310778b515d7bf84b2/tumblr_p1syjo21eu1ts4htvo2_540.gifv">
 
-<p align="left"> <img src="https://64.media.tumblr.com/0e9fe37114b6e7310778b515d7bf84b2/tumblr_p1syjo21eu1ts4htvo2_540.gifv" alt="abhiramjogimahanthi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiramjogimahanthi&label=Profile%20views&color=0e75b6&style=flat" alt="abhiramjogimahanthi" /> </p>
 
 - 💻 I’m currently a CSE Undergrad student at Amrita Vishwa Vidyapeetham
 
