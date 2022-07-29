@@ -29,8 +29,16 @@
 
 ---
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiramjogimahanthi&show_icons=true&locale=en&layout=compact" alt="abhiramjogimahanthi" /></p><p><a><img src="https://github-readme-stats.vercel.app/api?username=abhiramjogimahanthi&show_icons=true&locale=en" alt="abhiramjogimahanthi" /></a></p>
-  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiramjogimahanthi&show_icons=true&locale=en&layout=compact&theme=dark" alt="abhiramjogimahanthi" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=abhiramjogimahanthi&show_icons=true&locale=en&theme=dark" alt="abhiramjogimahanthi" />
+    </td>
+  </tr>
+</table>
 
 
 
