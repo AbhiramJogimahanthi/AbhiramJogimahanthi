@@ -32,12 +32,12 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiramjogimahanthi&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="abhiramjogimahanthi" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiramjogimahanthi&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="abhiramjogimahanthi" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=abhiramjogimahanthi&show_icons=true&locale=en&theme=dark&hide_border=true" alt="abhiramjogimahanthi" />
+      <img src="https://github-readme-stats.vercel.app/api?username=abhiramjogimahanthi&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="abhiramjogimahanthi" />
     </td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=abhiramjogimahanthi&theme=dark&hide_border=true" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=abhiramjogimahanthi&theme=midnight-purple&hide_border=true" /></td>
   </tr>
 </table>
 
