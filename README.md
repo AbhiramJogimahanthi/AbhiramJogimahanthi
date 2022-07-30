@@ -37,7 +37,7 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=abhiramjogimahanthi&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="abhiramjogimahanthi" />
     </td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=abhiramjogimahanthi&theme=cyan&hide_border=true&fire=FF9933&currStreakNum=01FFFF" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=abhiramjogimahanthi&theme=midnight-purple&hide_border=true&fire=FF9933&currStreakNum=01FFFF" /></td>
   </tr>
 </table>
 
