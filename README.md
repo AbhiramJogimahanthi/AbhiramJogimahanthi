@@ -3,7 +3,7 @@
 
 </br><br><img align="right" width="400" src="https://64.media.tumblr.com/0e9fe37114b6e7310778b515d7bf84b2/tumblr_p1syjo21eu1ts4htvo2_540.gifv">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiramjogimahanthi&label=Profile%20views&style=flat&color=blueviolet" alt="abhiramjogimahanthi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiramjogimahanthi&label=Profile%20views&style=flat&color=green" alt="abhiramjogimahanthi" /> </p>
 
 - 💻 I’m currently a CSE Undergrad student at Amrita Vishwa Vidyapeetham
 
@@ -37,7 +37,7 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=abhiramjogimahanthi&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="abhiramjogimahanthi" />
     </td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=abhiramjogimahanthi&theme=midnight-purple&hide_border=true&fire=FF9933&currStreakNum=00FFFF" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=abhiramjogimahanthi&theme=midnight-purple&hide_border=true&fire=FF9933" /></td>
   </tr>
 </table>
 
